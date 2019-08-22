@@ -1,0 +1,78 @@
+﻿生成启动时间为 2018/1/13 12:50:03。
+     1>项目“C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\self_compiler\self_compiler.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\self_compiler.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\self_compiler.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         g:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt errorhandler.cpp middlecode.cpp mipscode.cpp optimize.cpp praser.cpp symboltable.cpp tra_mipscode.cpp word_analyze.cpp
+         word_analyze.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(348): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(361): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(368): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(384): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(403): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(407): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(436): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(454): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(458): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\word_analyze.cpp(345): warning C4101: “x”: 未引用的局部变量
+         tra_mipscode.cpp
+         symboltable.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\symboltable.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\symboltable.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+         praser.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(1199): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(1633): warning C4101: “kind”: 未引用的局部变量
+         optimize.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(93): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(268): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(320): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(392): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(422): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\optimize.cpp(435): warning C4018: “<”: 有符号/无符号不匹配
+         mipscode.cpp
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\mipscode.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\mipscode.cpp(143): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\mipscode.cpp(163): warning C4018: “<”: 有符号/无符号不匹配
+         middlecode.cpp
+         errorhandler.cpp
+         正在生成代码...
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(150): warning C4715: “praser::setlabel”: 不是所有的控件路径都返回值
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(187): warning C4715: “praser::erjump”: 不是所有的控件路径都返回值
+     1>c:\users\administrator\documents\visual studio 2010\projects\self_compiler\self_compiler\praser.cpp(1480): warning C4715: “praser::returnment”: 不是所有的控件路径都返回值
+       Link:
+         g:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\Debug\self_compiler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\self_compiler.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\Debug\self_compiler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\Debug\self_compiler.lib" /MACHINE:X86 Debug\errorhandler.obj
+         Debug\middlecode.obj
+         Debug\mipscode.obj
+         Debug\optimize.obj
+         Debug\praser.obj
+         Debug\symboltable.obj
+         Debug\tra_mipscode.obj
+         Debug\word_analyze.obj
+         self_compiler.vcxproj -> C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\Debug\self_compiler.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\Debug\self_compiler.exe.manifest" /manifest Debug\self_compiler.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\self_compiler.unsuccessfulbuild”。
+         正在对“Debug\self_compiler.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\documents\visual studio 2010\Projects\self_compiler\self_compiler\self_compiler.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.54

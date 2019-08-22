@@ -1,0 +1,26 @@
+a = 1
+la $t8,a
+lw $t0,0($t8)
+li $t0,1
+la $k1,a
+sw $t0,0($k1)
+move $fp,$sp
+j main
+nop
+main
+main:
+sw $sp,-12($fp)
+move $sp,$fp
+sw $ra,-8($sp)
+lw $s0,-4($sp)
+a = 0
+li $s0,0
+printf a
+move $a0,$s0
+li $v0,1
+syscall
+mainend
+sw $s0,-4($sp)
+j mainend
+nop
+mainend:

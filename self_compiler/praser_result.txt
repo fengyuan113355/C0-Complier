@@ -1,0 +1,5 @@
+constdef--1
+mainfunction--2
+constdef--3
+writement--4
+expression--4

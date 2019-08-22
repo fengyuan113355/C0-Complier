@@ -1,0 +1,5 @@
+a = 1
+main
+a = 0
+printf a
+mainend

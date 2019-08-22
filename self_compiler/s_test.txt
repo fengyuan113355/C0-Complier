@@ -1,0 +1,91 @@
+
+
+const int watafak0 = 233;
+const int watafak1 = 2333, watafak2 = 23333;
+const char watafak3 = '2', watafak4 = '3', watafak5 = '3';
+const char underline = '_';
+
+int _1aa, b, B;
+char _;
+
+void reverse(int a[], int len)
+{
+    int i, temp;
+    for(i = 0; i != len/2; i = i+1) {
+        temp = a[i];
+        a[i] = a[len-i-1];
+        a[len-i-1] = temp;
+    }
+    return;
+}
+
+void __Simple() {}
+
+char echo(char c)
+{
+    _aa = +_aa -- 1;
+	_aa = _aa/1;
+    return(c);
+}
+
+int compare(int a, int b) {
+    const int grt = 1, let = -1, eql = 0;
+    if(a >= b) {
+        if(a <= b) return(eql);
+        else {return(grt);}
+    }
+    else {
+        return(let);
+    }
+}
+
+int gcd(int a, int b) {
+    int mul, i;
+    mul = b;
+    if(a < b) return(gcd(b, a));
+	if(b <= 0) return(-1);
+    if(a == b) return(a);
+    for(i = 0; mul < a; i = i + 1) mul = mul + b;
+    if(mul == a) {
+        if(mul == a) {}
+        return(b);
+    }
+    return(gcd(b, a-b*i));
+}
+
+
+
+void main() {
+	const int ssss = +-0;
+    char c;
+    int i, array[2], a, b, k;
+    array[0] = -233;
+    array[1] = +233;
+	array[0] = --9+compare(1,(array[0]--9*_)-3);
+    reverse(array, 2);
+    for(i = -0*compare(1,watafak1); -1*1 < i; i = i + 1) {
+        scanf(c);
+        switch(c) {
+            case 'c': {
+                scanf(a, b);
+                k = compare(a, b);
+                if(k > 0) {
+                    printf("the former is greater");
+                }
+                else {
+                    if(k == +-1) printf("the latter is greater");
+                    else printf("they are equal");
+                }
+            }
+            case 'g': {
+                scanf(a, b);
+                printf("the greatest common divisor is ", gcd(a, b));
+            }
+            case 'e': if(+(-+196--watafak0)*2++3) c = echo(c);
+            case 'q': i = -1;
+            default: ;
+        }
+    }
+    printf("the number of times it echoed: \n", _aa);
+	printf("");
+}
